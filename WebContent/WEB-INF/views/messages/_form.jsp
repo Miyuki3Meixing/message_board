@@ -8,6 +8,6 @@
 <input type = "text" name = "content" id = "contnet_msg" value = "${message.content}" />
 <br /><br />
 
-<input type = "hidden" name = "_token" id = "${_token}" />
+<input type = "hidden" name = "_token" value = "${_token}" />
 <button type = "submit">投稿</button>
 
