@@ -72,3 +72,14 @@ button {
 #footer{
     text-align : center ;
 }
+
+#flush_success {
+    width : 100% ;
+    padding-top : 27px ;
+    padding-left : 3% ;
+    padding-bottom : 27px ;
+    margin-bottom : 15px ;
+    color : #155724 ;
+    background-color : #d4edda ;
+}
+
