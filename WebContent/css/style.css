@@ -83,3 +83,12 @@ button {
     background-color : #d4edda ;
 }
 
+#flush_error {
+    width : 100% ;
+    padding-top : 27px ;
+    padding-left : 3% ;
+    padding-bottom : 27px ;
+    margin-bottom : 15px ;
+    color : #721c24 ;
+    background-color : #f8d7da ;
+}
